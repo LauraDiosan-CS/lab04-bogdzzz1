@@ -1,0 +1,3 @@
+﻿  Console.cpp
+C:\Users\bogda\Desktop\C++\lab4 - Copy\lab4\Console.cpp(97,6): warning C4101: 'X': unreferenced local variable
+  lab4.vcxproj -> C:\Users\bogda\Desktop\C++\lab4 - Copy\Debug\lab4.exe
